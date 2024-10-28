@@ -2,8 +2,6 @@ Ottawa
 Vancouver
 Toronto
 Calgary
-“Montreal”
-<<<<<<< HEAD
-“Edmonton”
-=======
->>>>>>> 30418c238010917a0629a40497688e4a6fba47d2
+Montreal
+Edmonton
+
